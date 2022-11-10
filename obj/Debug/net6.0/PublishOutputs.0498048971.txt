@@ -1,0 +1,11 @@
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\TestConsoleApp.exe
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\TestConsoleApp.dll
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\TestConsoleApp.deps.json
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\TestConsoleApp.runtimeconfig.json
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\TestConsoleApp.pdb
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\System.Drawing.Common.dll
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\System.Windows.Extensions.dll
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ferre\Documents\computer-outro-csharp\bin\Debug\net6.0\publish\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

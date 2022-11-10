@@ -1,0 +1,2 @@
+C:\Users\ferre\Documents\computer-outro-csharp\bin\publish\Computer-outro-revamp.pdb
+C:\Users\ferre\Documents\computer-outro-csharp\bin\publish\Computer-outro-revamp.exe
